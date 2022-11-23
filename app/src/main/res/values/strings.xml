@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleCalculate</string>
+    <string name="digits_text">Digits calculate</string>
+    <string name="result_text">Nátiyje: %s   </string>
+
+
+</resources>
